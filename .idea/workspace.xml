@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc62357e-1024-47ee-a9e7-0059b7465870" name="Changes" comment="Tensors">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tensors.ipynb" beforeDir="false" />
-    </list>
+    <list default="true" id="cc62357e-1024-47ee-a9e7-0059b7465870" name="Changes" comment="Modelling" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,11 +64,20 @@
       <option name="project" value="LOCAL" />
       <updated>1717225275667</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Modelling">
+      <option name="closed" value="true" />
+      <created>1717397551282</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717397551282</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Tensors" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tensors" />
+    <MESSAGE value="Modelling" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modelling" />
   </component>
 </project>
