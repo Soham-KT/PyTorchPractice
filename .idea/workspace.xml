@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc62357e-1024-47ee-a9e7-0059b7465870" name="Changes" comment="Modelling" />
+    <list default="true" id="cc62357e-1024-47ee-a9e7-0059b7465870" name="Changes" comment="Modelling">
+      <change beforePath="$PROJECT_DIR$/Basics/ModelClass.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/ModelClass.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
